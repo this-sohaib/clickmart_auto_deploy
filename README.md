@@ -32,8 +32,8 @@ Install the following on your system:
 
 ## 📦 Step 1 — Clone the Project
 ```sh
-git clone https://github.com/dev-rathankumar/django_clickmart_
-cd django_clickmart_
+https://github.com/this-sohaib/clickmart_auto_deploy
+cd clickmart_auto_deploy
 ```
 
 ## Step 2 - Remove Git history
